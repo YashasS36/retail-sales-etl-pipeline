@@ -1,0 +1,5 @@
+Product,Region,Sales,Cost,Profit
+Laptop,South,50000.0,40000.0,10000.0
+Phone,North,30000.0,20000.0,10000.0
+Tablet,East,0.0,15000.0,-15000.0
+Monitor,West,25000.0,0.0,25000.0

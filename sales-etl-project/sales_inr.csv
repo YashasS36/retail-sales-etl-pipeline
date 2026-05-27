@@ -1,0 +1,6 @@
+Product,Region,Sales,Cost,Sales_INR
+Laptop,South,50000.0,40000.0,4788500.0
+Phone,North,30000.0,20000.0,2873100.0
+Tablet,East,,15000.0,
+Laptop,South,50000.0,40000.0,4788500.0
+Monitor,West,25000.0,,2394250.0
